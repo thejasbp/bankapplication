@@ -1,1 +1,1 @@
-This is Payment page
+the balance is 200
